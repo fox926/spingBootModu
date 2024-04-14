@@ -3,7 +3,7 @@ package nl.jaapcoomans.boardgame.domain
 import java.util.UUID
 
 class BoardGame(
-    val id: UUID,
+    val id: UUID ,
     val title: String,
     val author: String,
     val publisher: String,
